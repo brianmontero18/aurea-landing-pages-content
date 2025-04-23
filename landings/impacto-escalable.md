@@ -2,7 +2,7 @@
 title: Arquitectura de Propósito para Tu Negocio
 slug: arquitectura-proposito
 description: Descubre la arquitectura de propósito que integra tecnología consciente y estrategia auténtica, permitiéndote expandir tu visión sin sacrificar tu esencia
-ogImage: /uploads/aurea-og-image.jpg
+ogImage: ../images/hero-section.jpg
 published: true
 
 heroSection:
@@ -58,7 +58,7 @@ methodologySection:
 diagnosticSection:
   title: Tu diagnóstico personalizado de arquitectura
   description: Descubre exactamente dónde está la tensión en tu negocio y recibe un mapa claro para resolverla
-  image: /uploads/diagnostic-image.jpg
+  image: ../images/diagnostic-image.jpg
   ctaText: OBTENER MI DIAGNÓSTICO GRATUITO
 
 evidenceSection:
@@ -69,17 +69,17 @@ evidenceSection:
       position: Fundadora
       company: EcoVital
       quote: AUREA no solo transformó nuestros sistemas, sino nuestra manera de entender el crecimiento. Hemos duplicado ingresos mientras profundizamos nuestra misión ambiental.
-      image: /uploads/testimonial-1.jpg
+      image: ../images/testimonial-1.jpg
     - name: Carlos Jiménez
       position: Director
       company: Mentoria Consciente
       quote: Pasaba el 80% de mi tiempo en operaciones y solo 20% creando. Hoy esa proporción se ha invertido gracias a la arquitectura de propósito implementada.
-      image: /uploads/testimonial-2.jpg
+      image: ../images/testimonial-2.jpg
     - name: Laura Torres
       position: CEO
       company: Bienestar Holístico
       quote: La implementación de inteligencia artificial nos daba miedo por perder el toque humano. AUREA logró integrarla de forma que amplifica nuestra esencia en lugar de diluirla.
-      image: /uploads/testimonial-3.jpg
+      image: ../images/testimonial-3.jpg
 
 faqSection:
   title: Preguntas frecuentes
